@@ -44,3 +44,19 @@
 #keyboard-upper-container {
   display: none;
 }
+
+#flex {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#yesButton {
+  margin: 10px;
+}
+
+#noButton {
+  margin: 10px;
+  padding-left: 7px;
+  padding-right: 7px;
+}
